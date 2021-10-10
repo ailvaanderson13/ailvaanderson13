@@ -1,8 +1,8 @@
 ### Olá, Me chamo Anderson, seja bem vindo! 👋
 
-- ♟ Hoje atuo como desenvolvedor Web Fullstack.
+- 💻 Hoje atuo como desenvolvedor Web Fullstack.
 - 👨‍💻 Em constante aprendizado, buscando novas técnologias.
-- 👯 Cursando Análise e Desenvolvimento de Sistemas.
+- 📚 Cursando Análise e Desenvolvimento de Sistemas.
 
 <div>
   <a href="https://github/ailvaanderson13">
