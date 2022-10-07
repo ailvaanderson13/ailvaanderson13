@@ -2,7 +2,6 @@
 
 - 💻 Hoje atuo como desenvolvedor Web Fullstack.
 - 👨‍💻 Em constante aprendizado, buscando novas técnologias.
-- 📚 Cursando Análise e Desenvolvimento de Sistemas.
 
 <div>
   <a href="https://github/ailvaanderson13">
@@ -21,7 +20,9 @@
   <img alingn="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
   <img alingn="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
   <img alingn="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />  
-  <img alingn="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />  
+  <img alingn="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
+  <img alingn="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+          
 </div>
 
 ##
